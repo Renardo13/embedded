@@ -2,7 +2,7 @@
 
 This project focuses on configuring and programming an ATmega328P microcontroller to operate LEDs, read analog signals from potentiometers and various sensors, and transmit data via UART. I implemented interrupt-driven event handling and timer-based control logic to build responsive embedded solutions. The project aim to larn low-level hardware interfacing, real-time signal processing and embedded C architecture.
 
-![Architecture of the board](img/ATmega328p.jpeg)
+<img src="img/ATmega328p.jpeg" width="300" style="transform: rotate(90deg);">
 
 ### 🧰 Tools & Environment
 
