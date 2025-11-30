@@ -6,6 +6,8 @@ This project focuses on configuring and programming an ATmega328P microcontrolle
 
 Microcontroller: ATmega328P
 
+Architecture AVR 8 bits
+
 IDE / Compiler: AVR-GCC
 
 Flashing Tool: avrdude
